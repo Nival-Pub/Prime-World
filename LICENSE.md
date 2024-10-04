@@ -1,5 +1,5 @@
 LICENSING AGREEMENT (OFFER)
-
+test
 1. Parties
 • Licensor: NIVAL INTERNATIONAL LTD.
 • Licensees: Any persons using the Licensor's intellectual property, whether by
